@@ -2,4 +2,5 @@
 
 選択したテキストを http://hidic.u-aizu.ac.jp/ に放り投げるだけのchrome extension
 
-こちらから取っていってください-> https://github.com/ompugao/selected_text_etymology/releases
+chrome store:
+https://chrome.google.com/webstore/detail/baoffpnjlppefjbkhooagfjkcfcnlofc
