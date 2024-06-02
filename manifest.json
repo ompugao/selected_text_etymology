@@ -1,6 +1,6 @@
 {
     "name": "Selected Word's Etymology",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "manifest_version": 3,
     "description": "選択したテキストで英語の語源検索：http://hidic.u-aizu.ac.jp/",
     "icons": {
